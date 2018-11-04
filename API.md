@@ -83,6 +83,10 @@
 
 **post /api/equipment 修改设备**
 
+## 指定设备类型下的机器类型
+
+**get /api/
+
 ## 历史记录
 
 **get /api/history 历史记录列表**
